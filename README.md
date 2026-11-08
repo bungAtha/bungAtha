@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm like Games and currently i learning Python and Go so this is my repos</p>
+<p data-importer="text" align="left">I'm like Games and currently i learning Go so this is my repos</p>
 
 ###
 
@@ -19,8 +19,6 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
 
